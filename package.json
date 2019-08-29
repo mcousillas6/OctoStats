@@ -1,0 +1,17 @@
+{
+  "name": "octo-stats",
+  "version": "1.0.0",
+  "description": "Automatic analytics for public repos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^16.28.7",
+    "dotenv": "^8.1.0",
+    "moment": "^2.24.0"
+  }
+}
