@@ -12,6 +12,6 @@
   "dependencies": {
     "@octokit/rest": "^16.28.7",
     "dotenv": "^8.1.0",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
